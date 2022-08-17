@@ -1,6 +1,9 @@
 # 💫 About Me:
-Data Science projects
 
+Highly accurate and experienced product-driven Data Scientist with a portfolio of projects in Fintech and
+Medtech adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and
+performing data management tasks. Possessing an extensive analytical skills, strong attention to detail, and a
+significant ability to work in team environments.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Yerez#6523) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achraf-kacem) 
